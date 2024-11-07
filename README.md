@@ -1,1 +1,2 @@
-# DZ_45
+# Для запуска:
+python manage.py runserver
