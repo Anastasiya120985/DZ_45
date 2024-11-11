@@ -3,9 +3,11 @@ python manage.py runserver
 
 # Ссылки:
 #
-1.1. http://127.0.0.1:8000/
-1.2. http://127.0.0.1:8000/writer/
-1.3. http://127.0.0.1:8000/books/
+1. http://127.0.0.1:8000/
+#
+   http://127.0.0.1:8000/writer/
+#
+   http://127.0.0.1:8000/books/
 #
 2.1. http://127.0.0.1:8000/writer/Hemingway
 2.2. http://127.0.0.1:8000/writer/Shakespeare
